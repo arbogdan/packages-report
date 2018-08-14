@@ -27,18 +27,19 @@ library(tidyverse)
     - **Complete:** SHA 57346fc7
 * ~~Open [R/03_barchart-packages-built.R](R/03_barchart-packages-built.R). Fill in the missing pieces of the script as directed. Run it. Commit and push the current state.~~
     - **Complete:** SHA 8ab6bfc
-* Fill in the blanks below in this README, using the results stored elsewhere.
+* ~~Fill in the blanks below in this README, using the results stored elsewhere.~~
+    - **Completed:** 
 * If you get this far, write an R script to run the whole analysis and, perhaps, another script that does a `make clean` style reset.
 
 ## Overview
 
-The goal of packages-report is to FINISH THIS SENTENCE.
+The goal of packages-report is to TAKE YOU TO THE ABSOULTE BRINK OF EDGELORD-HOOD
 
 ```{r, include = FALSE}
 ## load data/add-on-packages-freqtable.csv here in this chunk
 ```
 
-I have `FILL THIS IN!!!` add-on packages installed.
+I have `all teh` add-on packages installed.
 
 Here's how they break down in terms of which version of R they were built under, which is related to how recently they were updated on CRAN.
 
